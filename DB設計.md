@@ -18,5 +18,23 @@ web上でやり取りされるデータの形式にXML(HTMLのようにタグで
  </address>
  ```
 
- 
+ ### キー・バリューストア(Key-Value Store:KVS)
+ データをKey(識別キー)とValue(値)の組み合わせの単純なデータ型で表現するデータベース。<br>
+ 目的は、単純なデータ問い合わせを高速化である。<br>
+ 大量データを高速に処理する必要のあるwebサービスで多く利用される。
+
+ ### ドキュメント型データベース
+ JSON(Javascript Object Notation)と呼ばれるJavaSCriptのオブジェクトを定義するためのデータ構造を利用する。<br>
+
+```markdown
+"member":{
+  {"name":"山田　太郎",
+  "prefecture":"東京都",
+  },
+  {
+    "name":"Konishi"
+    "age":30
+  }
+}
+```
 
