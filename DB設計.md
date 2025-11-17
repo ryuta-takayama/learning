@@ -38,3 +38,6 @@ web上でやり取りされるデータの形式にXML(HTMLのようにタグで
 }
 ```
 
+### 主なDBMS
+リレーショナルデータベースでもDBMSはいくつか種類がある。<br>
+・Oracle Database ・PostgreSQL 
