@@ -42,3 +42,21 @@ web上でやり取りされるデータの形式にXML(HTMLのようにタグで
 リレーショナルデータベースでもDBMSはいくつか種類がある。<br>
 ・Oracle Database ・PostgreSQL <br>
 ・SQL Server ・MySQL　など
+
+Oracle Database<br>
+オラクル社の製品で、リレーショナルデータベースのDBMSとして最大のシェアを誇る。<br>
+
+SQL Server<br>
+マイクロソフト社の製品で、もともとWindowsプラットフォームに特化したDBMSだったが、<br>
+現在はLinuxに対応。
+
+Db2<br>
+IBM社の製品で、Unix、Windows、同社のメインフレームOSといったマルチプラットフォーム対応のDBMS
+
+PostgreSQL<br>
+アメリカのバークレイ大学のでは開発されたオープンソース（無料）のDBMSである。<br>
+MySQLも同様にオープンソースだが、サン・マイクロシステムズの所有者を経て、2010年から上述のオラクル社の<br>
+所有するDBMSとなった。
+
+
+
